@@ -7,6 +7,16 @@
 ## Contact
 * Email: robbogucki@gmail.com
 
+## Reading
+- Ferrone, Harrison (2019) Learning C# by Developing Games with Unity 2019, 4th Ed., Packt Publishing
+- Buckland, Mat (2005) Programming Game AI by Example, Worldware Publishing Inc
+
+
+# Week 2
+
+## Lecture Slides
+- [C# Coding](https://drive.google.com/open?id=19PFJkHyWhAzkXUEe6IVDSrhuJYExm7Ur)
+
 # Week 1
 
 ## [self-assessment questionnaire](https://drive.google.com/open?id=1Tpq0NbsXnR5C7bDcwp10KqDHpaLWwIIgKjQZv1qRPJA)
@@ -25,7 +35,3 @@
 #### Game maths:
 - [Game maths tutorial](http://www.wildbunny.co.uk/blog/vector-maths-a-primer-for-games-programmers/)
 - [Unity Vector Cookbook](https://docs.unity3d.com/Manual/VectorCookbook.html)
-
-## Reading
-- Ferrone, Harrison (2019) Learning C# by Developing Games with Unity 2019, 4th Ed., Packt Publishing
-- Buckland, Mat (2005) Programming Game AI by Example, Worldware Publishing Inc
