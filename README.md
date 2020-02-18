@@ -18,11 +18,11 @@
 - Lab Exercise 1: City Planning Array - implementing a simple model of the game world using an array
 
 ## Student repository link form
-- [Submit the link to your repo HERE](https://drive.google.com/open?id=1sSTz-TfBnZftcxyHBLLwOCG4eU6JbZKoR6maeWltpsk)
+- [Submit the link to your repo HERE](https://drive.google.com/open?id=1XjQ5ut3evGgwwg528B9CJNHgi-e-05EaEeKaRCTwpLY)
 
 
 ## Lecture Slides
-- [C# Coding, continued](https://drive.google.com/open?id=1IIwSspA76i0LWBtoFDXmn1pCZH9uv3IK)
+- [C# Coding, continued](https://drive.google.com/open?id=1-3ueNrac3XlEsBq3xUJjgmG7IMT06Ttg)
 
 # Week 2
 
