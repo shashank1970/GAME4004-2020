@@ -4,9 +4,20 @@
 - [Class Facebook page](https://www.facebook.com/groups/570080026914124/)
 - [Course Notes](https://drive.google.com/open?id=1_awUPElvYTU6RPufuHxxm6dQTEuw9lMF)
 
+## Reading
+- Ferrone, Harrison (2019) Learning C# by Developing Games with Unity 2019, 4th Ed., Packt Publishing
+- Buckland, Mat (2005) Programming Game AI by Example, Worldware Publishing Inc
+
 ## Contact
 * Email: robbogucki@gmail.com
 
+# Week 4
+
+## Learning Objectives:
+- Unity Physics: physical simulation background and Unity integration, practical exercises
+
+## Lecture Slides
+- [Unity Physics](https://drive.google.com/open?id=1CrxJkq7mO8-b-FKa--sDuktkHo1QUa3x)
 
 # Week 3
 
@@ -21,7 +32,7 @@
 ## Lecture Slides
 - [C# Coding, continued](https://drive.google.com/open?id=1-3ueNrac3XlEsBq3xUJjgmG7IMT06Ttg)
 
-# Week 9992
+# Week 2
 
 ## Lecture Slides
 - [C# Coding](https://drive.google.com/open?id=19PFJkHyWhAzkXUEe6IVDSrhuJYExm7Ur)
