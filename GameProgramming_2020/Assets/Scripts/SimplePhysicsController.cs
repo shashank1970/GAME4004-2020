@@ -27,6 +27,13 @@ public class SimplePhysicsController : MonoBehaviour
         vInput = Input.GetAxis("Vertical") * speed;
         hInput = Input.GetAxis("Horizontal") * rotSpeed;
         eInput = -Input.GetAxis("Elevate") * rotSpeed;
+
+
+        //ADD CHECK FOR DISTANCE AND TRIGGER THE EXPLOSION HERE:
+
+
+
+
     }
 
     private void FixedUpdate()

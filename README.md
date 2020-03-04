@@ -11,6 +11,11 @@
 ## Contact
 * Email: robbogucki@gmail.com
 
+# Week 5
+
+## Lab Test 1
+- [Lab Test 1 Instructions](https://drive.google.com/open?id=10Cgt8cV8bWQmL1Q4U3bD57fqptC7sCdM)
+
 # Week 4
 
 ## Learning Objectives:
