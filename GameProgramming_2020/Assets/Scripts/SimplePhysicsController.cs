@@ -10,7 +10,7 @@ public class SimplePhysicsController : MonoBehaviour
     private float eInput;
 
     private Rigidbody rb;
-
+    private bool nuked = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -30,8 +30,6 @@ public class SimplePhysicsController : MonoBehaviour
 
 
         //ADD CHECK FOR DISTANCE AND TRIGGER THE EXPLOSION HERE:
-
-
 
 
     }

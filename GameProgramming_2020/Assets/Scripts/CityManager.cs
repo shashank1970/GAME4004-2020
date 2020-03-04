@@ -4,6 +4,8 @@ using UnityEngine;
 
 namespace GRIDCITY
 {
+    
+
     public enum blockType { Block, Arches, Columns, Dishpivot, DomeWithBase, HalfDome, SlitDome, Slope, Tile};
 
 	public class CityManager : MonoBehaviour
@@ -16,6 +18,7 @@ namespace GRIDCITY
         public GameObject buildingPrefab;
         public GameObject treePrefab;
         public BuildingProfile[] profileArray;
+        public BuildingProfile[] wallprofile;
 
         private bool[,,] cityArray = new bool [15,15,15];   //increased array size to allow for larger city volume
 
@@ -62,10 +65,7 @@ namespace GRIDCITY
             }
 
             //BUILD CITY WALLS - add your code below
-
-
-
-
+           
 
 
 
@@ -74,7 +74,7 @@ namespace GRIDCITY
 
 
             //CITY BUILDINGS:
-			for (int i=-4;i<5;i+=2)
+            for (int i=-4;i<5;i+=2)
             {
                 for (int j=-4;j<5;j+=2)
                 {
